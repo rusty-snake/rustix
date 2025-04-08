@@ -1,3 +1,13 @@
+---
+
+This branch is regularly rebase onto rustix main and force-pushed. It has the following
+pull requests merged that are not yet merged into rustix main:
+
+- https://github.com/bytecodealliance/rustix/pull/1400
+- https://github.com/bytecodealliance/rustix/pull/1399
+
+---
+
 <div align="center">
   <h1><code>rustix</code></h1>
 
